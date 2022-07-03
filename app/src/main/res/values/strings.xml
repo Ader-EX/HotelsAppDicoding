@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IndonesianHotels</string>
+    <string name="myname">Fadhil Musyaffa</string>
+    <string name="myemail">musyaffa262@gmail.com</string>
+    <string name="hotels_price">Starts From Rp200.000</string>
+    <string name="hotels_name">Hotel ABCD</string>
+    <string name="hotels_to_cen">1.2 km to centre</string>
+    <string name="hotels_location">Grove Valley, San Fransisco</string>
+    <string name="hotels_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor </string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="hotel_location">Hotel Location</string>
+    <string name="book">BOOK</string>
+    <string name="hotel_image">Hotel Image</string>
+
+
+</resources>
